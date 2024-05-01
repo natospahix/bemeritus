@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bemeritus
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Php and Laravel
