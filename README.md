@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @bemeritus
+- 👋 Hi
 - 🌱 I’m currently learning Php and Laravel
